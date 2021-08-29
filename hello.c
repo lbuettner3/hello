@@ -11,6 +11,8 @@
 
      printf("Luke Buettner!\n");
      printf("Actuarial Science\n");
+     printf("Bertrand Sibomana\n");
+     printf("Integrated Science")
 
      return 0;
 
